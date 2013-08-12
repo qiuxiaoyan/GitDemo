@@ -12,5 +12,6 @@ public class Demo {
 	public static void main(){
 		System.out.println(msg);
 		System.out.println("Hello World");
+		Sysotem.out.println("Welcome to git word!!!");
 	}
 }
